@@ -105,7 +105,7 @@ $ npm run serve
 
 | 로딩 화면 | 로그인 화면 |
 | --- | --- |
-| <img src="./readme_assets/loding.png" width="150"> | <img src="./readme_assets/login.png" width="150"> |
+| <img src="./readme_assets/loding.png" width="200"> | <img src="./readme_assets/login.png" width="200"> |
 
 첫 접속에 **로딩 화면**이 존재한다. **로그인 화면**을 통해 임시로 설정해놓은 사용자로 접속할 수 있다.
 
@@ -113,60 +113,60 @@ $ npm run serve
 
 | 메인 화면 | 설명 |
 | --- | --- |
-| <img src="./readme_assets/main.png" width="150"> | **메인 화면**에서 제공하는 기능은 다음과 같다.<br>- 내정보 화면으로 이동<br>- 역 선택 또는 역 검색<br>- 화면 확대/축소<br>- 출발역과 도착역 서로 바꾸기 |
+| <img src="./readme_assets/main.png" width="200"> | **메인 화면**에서 제공하는 기능은 다음과 같다.<br>- 내정보 화면으로 이동<br>- 역 선택 또는 역 검색<br>- 화면 확대/축소<br>- 출발역과 도착역 서로 바꾸기 |
 
 ### 보관할게요 화면
 
 | 메인 화면 | 설명 |
 | --- | --- |
-| <img src="./readme_assets/main1.png" width="150"> | **보관할게요**는 다음 순서로 진행된다.<br>- 메인 화면에서 역 선택<br>- 원하는 보관함 선택<br>- 가격 및 주의사항 확인<br>- 결제 후 물건 보관 |
+| <img src="./readme_assets/main1.png" width="200"> | **보관할게요**는 다음 순서로 진행된다.<br>- 메인 화면에서 역 선택<br>- 원하는 보관함 선택<br>- 가격 및 주의사항 확인<br>- 결제 후 물건 보관 |
 
 | 보관함 선택 전 | 보관함 선택 후 | 기본 요금 정보 | 주의사항 동의 전 |
 | --- | --- | --- | --- |
-| <img src="./readme_assets/store1.png" width="150"> | <img src="./readme_assets/store2.png" width="150"> | <img src="./readme_assets/store3.png" width="150"> | <img src="./readme_assets/store4.png" width="150"> |
+| <img src="./readme_assets/store1.png" width="200"> | <img src="./readme_assets/store2.png" width="200"> | <img src="./readme_assets/store3.png" width="200"> | <img src="./readme_assets/store4.png" width="200"> |
 
 | 주의사항 동의 후 | 결제 완료 | 보관함 비밀번호 |
 | --- | --- | --- |
-| <img src="./readme_assets/store5.png" width="150"> | <img src="./readme_assets/store6.png" width="150"> | <img src="./readme_assets/store7.png" width="150"> |
+| <img src="./readme_assets/store5.png" width="200"> | <img src="./readme_assets/store6.png" width="200"> | <img src="./readme_assets/store7.png" width="200"> |
 
 ### 맡길게요 화면
 
 | 메인 화면 | 설명 |
 | --- | --- |
-| <img src="./readme_assets/main2.png" width="150"> | **맡길게요**는 다음 순서로 진행된다.<br>- 메인 화면에서 출발역, 도착역 선택<br>- 원하는 보관함 사이즈 선택<br>- 원하는 보관함 선택<br>- 가격 및 주의사항 확인<br>- 결제 후 물건 맡기기 |
+| <img src="./readme_assets/main2.png" width="200"> | **맡길게요**는 다음 순서로 진행된다.<br>- 메인 화면에서 출발역, 도착역 선택<br>- 원하는 보관함 사이즈 선택<br>- 원하는 보관함 선택<br>- 가격 및 주의사항 확인<br>- 결제 후 물건 맡기기 |
 
 | 보관함 사이즈 선택 | 보관함 선택 전 | 보관함 선택 후 | 기본 요금 정보 |
 | --- | --- | --- | --- |
-| <img src="./readme_assets/order1.png" width="150"> | <img src="./readme_assets/order2.png" width="150"> | <img src="./readme_assets/order3.png" width="150"> | <img src="./readme_assets/order4.png" width="150"> |
+| <img src="./readme_assets/order1.png" width="200"> | <img src="./readme_assets/order2.png" width="200"> | <img src="./readme_assets/order3.png" width="200"> | <img src="./readme_assets/order4.png" width="200"> |
 
 | 주의사항 동의 전 | 주의사항 동의 후 | 결제 완료 | 보관함 비밀번호 |
 | --- | --- | --- | --- |
-| <img src="./readme_assets/order5.png" width="150"> | <img src="./readme_assets/order6.png" width="150"> | <img src="./readme_assets/order7.png" width="150"> | <img src="./readme_assets/store7.png" width="150"> |
+| <img src="./readme_assets/order5.png" width="200"> | <img src="./readme_assets/order6.png" width="200"> | <img src="./readme_assets/order7.png" width="200"> | <img src="./readme_assets/store7.png" width="200"> |
 
 ### 옮길게요 화면
 
 | 옮길게요 화면 | 설명 |
 | --- | --- |
-| <img src="./readme_assets/main2.png" width="150"> | **옮길게요**는 다음 순서로 진행된다.<br>- 메인 화면에서 출발역, 도착역 선택<br>- 옮길 보관함 배정 받기<br>- 수익 및 주의사항 확인<br>- 물건 옮기기 |
+| <img src="./readme_assets/main2.png" width="200"> | **옮길게요**는 다음 순서로 진행된다.<br>- 메인 화면에서 출발역, 도착역 선택<br>- 옮길 보관함 배정 받기<br>- 수익 및 주의사항 확인<br>- 물건 옮기기 |
 
 | 보관함 선택 전 | 보관함 선택 후 | 기본 요금 정보 | 주의사항 동의 전 |
 | --- | --- | --- | --- |
-| <img src="./readme_assets/delivery1.png" width="150"> | <img src="./readme_assets/delivery2.png" width="150"> | <img src="./readme_assets/delivery3.png" width="150"> | <img src="./readme_assets/delivery4.png" width="150"> |
+| <img src="./readme_assets/delivery1.png" width="200"> | <img src="./readme_assets/delivery2.png" width="200"> | <img src="./readme_assets/delivery3.png" width="200"> | <img src="./readme_assets/delivery4.png" width="200"> |
 
 | 보관함 선택 전 | 보관함 선택 후 |
 | --- | --- |
-| <img src="./readme_assets/delivery5.png" width="150"> | <img src="./readme_assets/delivery6.png" width="150"> |
+| <img src="./readme_assets/delivery5.png" width="200"> | <img src="./readme_assets/delivery6.png" width="200"> |
 
 ### 내정보 화면
 
 | 내정보 화면 | 설명 |
 | --- | --- |
-| <img src="./readme_assets/user.png" width="150"> | **내정보 화면**에서 제공하는 기능은 다음과 같다.<br>- 이용중인 보관함 정보<br>- 이용내역<br>- 이용중인 택배 서비스 확인<br>- 이용내역 필터링 |
+| <img src="./readme_assets/user.png" width="200"> | **내정보 화면**에서 제공하는 기능은 다음과 같다.<br>- 이용중인 보관함 정보<br>- 이용내역<br>- 이용중인 택배 서비스 확인<br>- 이용내역 필터링 |
 
 | 이용중인 보관함 | 보관함 비밀번호 | 설명 |
 | --- | --- | --- |
-| <img src="./readme_assets/user_store1.png" width="150"> | <img src="./readme_assets/user_store2.png" width="150"> | 현재 이용중인 보관함의 정보를 보여주는 화면이다.<br>보관함의 위치를 확인할 수 있으며,<br>보관함의 비밀번호도 확인 가능하다. |
+| <img src="./readme_assets/user_store1.png" width="200"> | <img src="./readme_assets/user_store2.png" width="200"> | 현재 이용중인 보관함의 정보를 보여주는 화면이다.<br>보관함의 위치를 확인할 수 있으며,<br>보관함의 비밀번호도 확인 가능하다. |
 
 | 과거 이용내역 | 설명 | 현재 이용내역 | 설명 |
 | --- | --- | --- | --- |
-| <img src="./readme_assets/user_history1.png" width="150"> | 과거의 이용했던 내역이다. | <img src="./readme_assets/user_history2.png" width="150"> | 현재 이용중인 택배 서비스를 확인할 수 있다. |
+| <img src="./readme_assets/user_history1.png" width="200"> | 과거의 이용했던 내역이다. | <img src="./readme_assets/user_history2.png" width="200"> | 현재 이용중인 택배 서비스를 확인할 수 있다. |
